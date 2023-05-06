@@ -1,4 +1,4 @@
-Name: Build and Deploy Code
+name: Build and Deploy Code
 
 on: [push, pull_request]
 
