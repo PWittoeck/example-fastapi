@@ -7,6 +7,6 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: pulling git repo
-        uses: actions/checkout@V2
+        uses: actions/checkout@v2
       - name: say hi to Paul
         run: echo "hello Paul"
